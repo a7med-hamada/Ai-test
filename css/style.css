@@ -831,6 +831,7 @@ color: #b3b3b3;
   transition: 0.3s;
   height: 70px;
   opacity: .7;
+  box-shadow: 0 0 5px 2px #6431ff;
 }
 #scrollTopBtn:hover {
   opacity: 1;
